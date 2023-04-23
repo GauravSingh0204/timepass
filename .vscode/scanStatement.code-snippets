@@ -1,0 +1,9 @@
+{
+	"printStatement": {
+		"prefix": "sss",
+		"body": [
+		  "scanf(\"$1\");"
+		],
+		"description": "scanStatement"
+	  }
+}

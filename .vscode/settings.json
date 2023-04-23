@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "c",
+        "stdio.h": "c",
+        "TEMP.C": "cpp",
+        "time.h": "c",
+        "cstdio": "c"
+    }
+}

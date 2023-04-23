@@ -1,0 +1,9 @@
+{
+	"printStatement": {
+		"prefix": "ppp",
+		"body": [
+		  "printf(\"$1\");"
+		],
+		"description": "printStatement"
+	  }
+}
